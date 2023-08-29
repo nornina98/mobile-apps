@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from "react-native";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>PROJECT MOBILE APPS MAHLIGAI IDAMAN BY IKRAM !</Text>
+      <Text>PROJECT MOBILE APPS MI ECOMMERCE</Text>
       <StatusBar style="auto" />
     </View>
   );
